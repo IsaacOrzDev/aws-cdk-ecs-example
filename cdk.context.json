@@ -1,0 +1,12 @@
+{
+  "availability-zones:account=907250665542:region=us-west-2": [
+    "us-west-2a",
+    "us-west-2b",
+    "us-west-2c",
+    "us-west-2d"
+  ],
+  "hosted-zone:account=907250665542:domainName=isaacdev.net:region=us-west-2": {
+    "Id": "/hostedzone/Z0093141290V412JEIN44",
+    "Name": "isaacdev.net."
+  }
+}
